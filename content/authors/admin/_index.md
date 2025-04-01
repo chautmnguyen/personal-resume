@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Chau Nguyen
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Ch-oh
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Chau
+last_name: Nguyen
 
 # Status emoji
 status:
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Neuroscience Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -132,9 +132,9 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
+  - name: Vietnamese
+    percent: 100
+  - name: Mandarin Chinese
     percent: 25
 
 # Awards.
